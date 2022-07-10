@@ -29,7 +29,8 @@
   body{
     /*background-color: #FFE4E1;*/
     background-image: url(cherry-blossom.jpg); 
-    background-size: 100% 100%;
+    /*background-size: 100% 100%;*/
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 200px;
