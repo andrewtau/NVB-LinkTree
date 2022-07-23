@@ -1,5 +1,5 @@
 /* Style all font awesome icons */
-.fa {
+.fab {
 	padding: 20px;
 	font-size: 30px;
 	width: 30px;
@@ -78,6 +78,12 @@
   .fa-instagram {
     background: #ffb3b3; /*purple*/
     color: white;
+  }
+
+  /* Tik-Tok */
+  .fa-tiktok {
+	background: #ffb3b3;
+	color: white;
   }
 
   /*
