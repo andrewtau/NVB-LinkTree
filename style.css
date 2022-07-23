@@ -14,6 +14,13 @@
 	font-size: 100%;
   }
 
+  img{
+	display: block;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
   body{
     background-color: #ffe6e6;
     /*background-image: url(cherry-blossom.jpg);  #FFE4E1 */
@@ -25,9 +32,10 @@
   a{
 	display: block;
 	max-width: 400px;
-	margin: 0 auto 15px auto;
+	margin: 0 auto 30px auto;
 	padding: 10px 20px;
 	color: white;
+	font-size: 20px;
 	border: 2px solid #ffb3b3;
 	background-color: #ffb3b3;
 	text-decoration: none;
