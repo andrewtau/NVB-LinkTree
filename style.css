@@ -98,4 +98,22 @@
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
   */
+  .banner {
+	background: #ffb3b3;
+  }
+  
+  .banner__content {
+	padding: 16px;
+	max-width: 600px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+  }
+  
+  .banner__text {
+	flex-grow: 1;
+	line-height: 1.4;
+	font-family: cursive;
+	color: white;
+  }
   
