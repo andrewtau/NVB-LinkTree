@@ -35,7 +35,7 @@
     /*background-image: url(cherry-blossom.jpg);  #FFE4E1 */
     min-height: 100vh;
     text-align: center;
-	font-family: cursive;
+	font-family: sans-serif;
   }
 
   a{
@@ -121,7 +121,7 @@
   .banner__text {
 	flex-grow: 1;
 	line-height: 1.4;
-	font-family: cursive;
+	font-family: sans-serif;
 	color: white;
   }
   
@@ -129,7 +129,7 @@
 .intro,
 .intro a{
   color:white;
-  font-family:
+  font-family: sans-serif;
 }
 /* customizable snowflake styling */
 .snowflake {
